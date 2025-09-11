@@ -1,6 +1,6 @@
-using UnityEditor.ShaderGraph.Internal;
+
 using UnityEngine;
-using UnityEngine.WSA;
+
 
 public class Tree : MonoBehaviour
 {
